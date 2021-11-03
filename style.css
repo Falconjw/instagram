@@ -154,7 +154,7 @@ body {
     }
 
     .instagram-phone {
-        display: none;
+        display: flex;
     }
 
     .instagram-continue {
