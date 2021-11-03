@@ -150,7 +150,7 @@ body {
 
 @media (max-width: 640px) {
     body {
-        background-color: #ffffff;
+        background-color: rgb(70, 69, 69);
     }
 
     .instagram-phone {
